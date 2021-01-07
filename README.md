@@ -23,6 +23,7 @@ Options:
 
 With no FILE, or when FILE is -, read standard input.
 ```
+
 ## Documentation
 
 See https://github.com/jonkemp/inline-css/
